@@ -40,4 +40,4 @@ Anyway, feel free
 
     Mostly categorized
 
-  1. [Topics](#topics)
+  1. [Topics](topics/)
