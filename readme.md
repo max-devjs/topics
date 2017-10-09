@@ -1,8 +1,8 @@
-## topics
+## Topics
 
-    In this repository are open sourced my bookmarks (almost all of them, with some extra stuff) for my [xxx-days-of-code](https://github.com/max-devjs/xxx-days-of-code) journey (right, I have six months of pushes to do), divided by topics.
+In this repository are open sourced my bookmarks (almost all of them, with some extra stuff) for my [xxx-days-of-code](https://github.com/max-devjs/xxx-days-of-code) journey (right, I have six months of pushes to do), divided by topics.
 
-    Note:
+Note:
 
     - topic:  a single collection of bookmarks for a specific ... topic
     - topics: set of ... topics
@@ -13,7 +13,7 @@
     - I did not and probably I will not read/check every bookmark for every and each topic: this is mainly a set of collected articles of "it seems to be interesting" things
     - most important, probably a good deal of the links will be obsolete in the near future
 
-    Anyway, feel free
+Anyway, feel free
     
     - to check if you find useful links in the topics
     - to suggest useful links (and topics)
@@ -30,14 +30,14 @@
 
     Mostly a mess
 
-    [Bookmarks](topics/_bookmarks.md)
-    [Data](topics/_data.md)
-    [Scratch](topics/_scratch.md)
-    [Swap](topics/_swap.md)
-    [TDD](topics/_tdd.md)
+  1. [Bookmarks](topics/_bookmarks.md)
+  1. [Data](topics/_data.md)
+  1. [Scratch](topics/_scratch.md)
+  1. [Swap](topics/_swap.md)
+  1. [TDD](topics/_tdd.md)
 
 ### Topics
 
     Mostly categorized
 
-    [Topics](#topics)
+  1. [Topics](#topics)
