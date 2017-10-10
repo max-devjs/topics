@@ -71,11 +71,11 @@
   1. [ ] to-watch | youtube []()
   1. [ ] to-watch | youtube []()
 
+  1. [x] to-watch [Learning Vim in a Week](https://www.youtube.com/watch?v=_NUO4JEtkDw)
   1. [ ] to-watch [Why Vim?](https://www.youtube.com/watch?v=F6-phM56H-Q)
   1. [ ] to-watch [How to Do 90% of What Plugins Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM)
   1. [ ] to-watch [Learn how to use Vim!](https://www.youtube.com/watch?v=TwJbr2KIR0E)
   1. [ ] to-watch [Vim For Beginners](https://www.youtube.com/watch?v=uYP1w5SqqvQ)
-  1. [ ] to-watch [Learning Vim in a Week](https://www.youtube.com/watch?v=_NUO4JEtkDw)
   1. [ ] to-watch [Vim Training Class 1 - Basic motions and commands](https://www.youtube.com/watch?v=Nim4_f5QUxA)
   1. [ ] to-watch [Improving Vim Speed](https://www.youtube.com/watch?v=OnUiHLYZgaA)
   1. [ ] to-watch [REST APIs and the Return of the Console App](https://www.youtube.com/watch?v=3O60E9CpyJA)
