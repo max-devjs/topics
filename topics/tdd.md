@@ -125,3 +125,7 @@
   1. [ ] to-read [A GENTLE INTRODUCTION TO JAVASCRIPT TEST DRIVEN DEVELOPMENT: PART 3](https://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-html-dom/)
 
   1. [x] to-read [A crash course on testing with Node.js](https://hackernoon.com/a-crash-course-on-testing-with-node-js-6c7428d3da02)
+
+#### Videos
+
+  1. [x] to-watch | youtube [20 minutos insanos de TDD e Ruby](https://www.youtube.com/watch?v=ZnTkqeJF52w)
