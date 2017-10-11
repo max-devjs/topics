@@ -99,6 +99,8 @@
 
 ### Animations
 
+  1. [ ] to-check [Creating Vue.js Transitions & Animation: Live Examples](https://snipcart.com/blog/vuejs-transitions-animations)
+
   1. [x] to-check [Animating Vue](http://slides.com/sdrasner/animating-vue-17#/)
 
 ### Books
