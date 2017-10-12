@@ -323,6 +323,8 @@
   1. [ ] to-read [From Draw.io to Vue.js app](https://medium.com/@FrancescoZ/from-draw-io-to-vue-js-app-c0f84ede8383)
   1. [ ] to-read [Creating Custom Inputs With Vue.js](https://www.smashingmagazine.com/2017/08/creating-custom-inputs-vue-js/)
 
+  1. [x] to-read [Zero to live with Vue — How we built Chatwoot](https://hackernoon.com/zero-to-live-with-vue-how-we-built-chatwoot-c7304e596d62)
+
 #### Authentication
 
   1. [ ] to-read [The Lazy Developer's Guide to Authentication with Vue.js](https://developer.okta.com/blog/2017/09/14/lazy-developers-guide-to-auth-with-vue)
