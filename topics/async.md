@@ -20,6 +20,11 @@
 
 ### Readings
 
+  1. [ ] to-read []()
+  1. [ ] to-read []()
+  1. [ ] to-read []()
+  1. [ ] to-read [Async / Await is Not Going to Save Your App](https://hackernoon.com/async-await-is-not-going-to-save-your-app-8201e7a9003)
+
   1. [ ] to-read [Loving Async/Await even more…](https://medium.com/@maxcbc/loving-async-await-even-more-c8713019ee57)
 
 ### Tutorials
