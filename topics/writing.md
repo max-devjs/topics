@@ -22,7 +22,7 @@
   1. [ ] to-read [How to Start a Blog In The Most Cluttered Marketplace In History](https://medium.com/swlh/how-to-start-a-blog-in-the-most-cluttered-marketplace-in-history-ef50db328a09) I will publish an article only when I have something important to say.
   1. [ ] to-read []()
   1. [ ] to-read []()
-  1. [ ] to-read []()
+  1. [ ] to-read [Should You Start a Blog? The Truth About 7 Benefits of Blogging](https://blog.alexdevero.com/start-a-blog-truths-benefits-blogging/)
 
   1. [ ] to-read [How to do technical blogging](https://dev.to/yelluw/how-to-do-technical-blogging)
   1. [ ] to-read [7 Things You Must Give Up to Become a Successful Writer](https://medium.com/the-mission/7-things-you-must-give-up-to-become-a-successful-writer-396c11a892e6)
