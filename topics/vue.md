@@ -519,11 +519,16 @@
 
 ### Updates
 
+  1. [x] to-read [Vue Project Roadmap](https://github.com/vuejs/roadmap)
+
   1. [ ] to-read []()
   1. [ ] to-read []()
   1. [ ] to-read []()
   1. [ ] to-read []()
 
+  1. [x] to-read [Vue 2.5 released](https://medium.com/the-vue-point/vue-2-5-released-14bd65bf030b)
+  1. [x] to-read [v2.5.0 Level E](https://github.com/vuejs/vue/releases/tag/v2.5.0)
+  1. [x] to-read [Vue 2.5 release details](https://gist.github.com/yyx990803/9bdff05e5468a60ced06c29c39114c6b#error-handling-with-errorcaptured-hook)
   1. [x] to-read [Upcoming TypeScript Changes in Vue 2.5](https://medium.com/the-vue-point/upcoming-typescript-changes-in-vue-2-5-e9bd7e2ecf08)
 
 ### TypeScript
