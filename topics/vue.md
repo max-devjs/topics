@@ -212,6 +212,7 @@
   1. [ ] to-read [Announcing Storybook 3.2](https://medium.com/storybookjs/announcing-storybook-3-2-e00918a1764c) Vue Support, Story Hierarchy, RN On-Device UI, & more!
   1. [ ] to-read [Introducing: Storybook for Vue 🎉](https://medium.com/storybookjs/introducing-storybook-for-vue-940f222541c5)
 
+  1. [x] to-read [ReactiveConf — In the loop with Evan You](https://blog.reactiveconf.com/reactiveconf-in-the-loop-with-evan-you-26837f4ba35a)
   1. [x] to-read [8 VueJS Plugins to Speed Up Your Front End Development](https://medium.com/skyshidigital/8-vuejs-plugins-to-speed-up-your-front-end-development-61528155f280)
   1. [x] to-read [C’est la “Vue”](https://medium.com/techlabs-emag/cest-la-vue-d17e525cef48)
   1. [x] to-read [The case for Vue components](https://morningstar.engineering/the-case-for-vue-components-5b8ac6f5fabe)
@@ -349,7 +350,7 @@
   1. [ ] to-read [What I Learned About VueJS From Building A Chrome Extension](https://medium.com/js-dojo/what-i-learned-about-vuejs-from-building-a-chrome-extension-bacbf857829)
   1. [x] to-read [What I Learned About VueJS From Building A Chrome Extension](http://vuejsdevelopers.com/2017/05/08/vue-js-chrome-extension/)
 
-### Components
+#### Components
 
   1. [ ] to-read []()
   1. [ ] to-read []()
