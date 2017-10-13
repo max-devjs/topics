@@ -220,7 +220,6 @@
   1. [ ] to-read []()
   1. [ ] to-read [Turn Your Spaghetti Code into Functions - Part 1](http://www.gunnargissel.com/turn-your-spaghetti-code-into-functions-part-1.html)
   1. [ ] to-read [Turn Your Spaghetti Code into Functions, Part 2](https://dev.to/monknomo/turn-your-spaghetti-code-into-functions-part-2)
-  1. [ ] to-read [6 Simple Tips on How to Start Writing Clean Code](https://hackernoon.com/6-simple-tips-on-how-to-start-writing-clean-code-d66c241aa268)
 
   1. [ ] to-read [Writing Clean Code](https://dev.to/gonedark/writing-clean-code)
   1. [ ] to-watch | youtube [Seven Ineffective Coding Habits](https://www.youtube.com/watch?v=ytJnSttKL6A)

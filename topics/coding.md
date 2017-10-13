@@ -65,6 +65,7 @@
   1. [ ] to-read [From Zero to Front-end Hero (Part 1)](https://medium.freecodecamp.org/from-zero-to-front-end-hero-part-1-7d4f7f0bff02)
 
   1. [ ] to-read [The Problem with Shared Code](https://medium.com/@jeffwhelpley/the-problem-with-shared-code-124a20fc3d3b)
+  1. [x] to-read [6 Simple Tips on How to Start Writing Clean Code](https://hackernoon.com/6-simple-tips-on-how-to-start-writing-clean-code-d66c241aa268)
   1. [x] to-read [HOW DISOBEDIENCE MADE ME BETTER.](https://dev.to/oyink/how-disobedience-made-me-better)
   1. [x] to-read [Importance of Writing Clean Code](https://dev.to/mohitrajput987/importance-of-writing-clean-code)
 
