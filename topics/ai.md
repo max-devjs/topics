@@ -30,6 +30,8 @@
 
 ### Readings
 
+  1. [ ] to-read [Don’t Fear AI, Fear Human Stupidity](https://hackernoon.com/dont-fear-ai-fear-human-stupidity-437fd22e1a93)
+
   1. [ ] to-read [How I started with learning AI in the last 2 months](https://hackernoon.com/how-i-started-with-learning-ai-in-the-last-2-months-251d19b23597) Beginning with the most important skill of the 21st century
   1. [ ] to-read []()
   1. [ ] to-read []()
