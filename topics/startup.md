@@ -26,7 +26,7 @@
   1. [ ] to-read [12 Ways to Get Millions of People to Your Website](https://medium.com/the-mission/12-ways-to-get-millions-of-people-to-your-website-c7b3ef6ea932)
   1. [ ] to-read []()
   1. [ ] to-read []()
-  1. [ ] to-read []()
+  1. [ ] to-read [How to become a successful non-tech founder](https://hackernoon.com/8-steps-to-become-a-successful-non-tech-founder-3e69e5323f0) Your passion and belief is the key, not your coding skills
 
   1. [ ] to-read [Building a startup? Build an audience, first.](https://medium.com/@rrhoover/building-a-startup-build-an-audience-first-9fbba4f1fa15)
   1. [ ] to-read [To Choose, Keep & Refactor a Successful Startup's Tech Stack](https://dev.to/couellet/to-choose-keep--refactor-a-successful-startups-tech-stack)
