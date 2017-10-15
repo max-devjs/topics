@@ -212,6 +212,8 @@
   1. [ ] to-read [Announcing Storybook 3.2](https://medium.com/storybookjs/announcing-storybook-3-2-e00918a1764c) Vue Support, Story Hierarchy, RN On-Device UI, & more!
   1. [ ] to-read [Introducing: Storybook for Vue 🎉](https://medium.com/storybookjs/introducing-storybook-for-vue-940f222541c5)
 
+  1. [x] to-read | appendto.com [Where Did Vue.js Come From?](https://appendto.com/2017/03/where-did-vue-js-come-from/)
+  1. [x] to-read [Where Did Vue.js Come From?](https://www.joezimjs.com/javascript/where-did-vuejs-come-from/)
   1. [x] to-read [ReactiveConf — In the loop with Evan You](https://blog.reactiveconf.com/reactiveconf-in-the-loop-with-evan-you-26837f4ba35a)
   1. [x] to-read [8 VueJS Plugins to Speed Up Your Front End Development](https://medium.com/skyshidigital/8-vuejs-plugins-to-speed-up-your-front-end-development-61528155f280)
   1. [x] to-read [C’est la “Vue”](https://medium.com/techlabs-emag/cest-la-vue-d17e525cef48)
