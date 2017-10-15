@@ -75,7 +75,7 @@
   1. [ ] to-watch | udemy []()
 
   1. [ ] to-watch | udemy [MongooseJS Essentials - Learn MongoDB for Node.js](https://www.udemy.com/mongoosejs-essentials/learn/v4/overview)
-  1. [ ] to-watch | udemy [Build an Amazon clone: Nodejs + MongoDB + Stripe](https://www.udemy.com/build-an-amazon-clone-nodejs-stripe-elasticsearch/learn/v4/overview)
+
   1. [ ] to-watch | udemy [Build a Real Time web app in node.js , Angular.js, mongoDB](https://www.udemy.com/realtime-meanstack/learn/v4/overview)
 
   1. [ ] to-watch | youtube []()

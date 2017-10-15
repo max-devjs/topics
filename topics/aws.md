@@ -28,4 +28,4 @@
   1. [ ] to-read []()
   1. [ ] to-read []()
   1. [ ] to-read [The Best Way To Learn AWS Is To Start Using It](https://dev.to/kylegalbraith/the-best-way-to-learning-aws-is-to-start-using-it)
-  1. [ ] to-read [Some things you should know before using Amazon’s Elasticsearch Service on AWS](https://read.acloud.guru/things-you-should-know-before-using-awss-elasticsearch-service-7cd70c9afb4f) Elasticsearch is a powerful but fragile piece of infrastructure with a ton of things that can cause the AWS service to become unstable
+
