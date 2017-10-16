@@ -18,6 +18,7 @@
   1. [ ] to-watch []()
 
   1. [ ] to-check [codecuriosity.org/faq](https://codecuriosity.org/faq)
+  1. [ ] to-check [github.com/hoodiehq/first-timers-bot](https://github.com/hoodiehq/first-timers-bot)
 
   1. [ ] to-read [The really big list of really interesting Open Source projects.](https://medium.com/@likid.geimfari/the-list-of-interesting-open-source-projects-2daaa2153f7c)
 
