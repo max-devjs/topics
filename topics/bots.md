@@ -122,6 +122,8 @@
   1. [ ] to-read []()
   1. [ ] to-read []()
   1. [ ] to-read []()
+  1. [ ] to-read [Create A Free, Open-source Voting Bot For Steemit](https://hackernoon.com/create-a-free-open-source-voting-bot-for-steemit-b31155ba28f9)
+
   1. [ ] to-read [The 10 Fundamentals of Marketing Your ChatBot](https://thinkgrowth.org/the-10-fundamentals-of-marketing-your-chatbot-fda1168440ff)
   1. [ ] to-read [How To Build A Charming (And Useful) Chatbot](https://thinkgrowth.org/how-to-build-a-charming-and-useful-chatbot-ba71dfd61bfb)
   1. [ ] to-read [How to create your own bot](https://tutorials.botsfloor.com/how-to-create-your-own-bot-7f57cec7e1cf)
