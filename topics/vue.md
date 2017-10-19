@@ -141,7 +141,7 @@
   1. [ ] to-watch | udemy []()
   1. [ ] to-watch | udemy []()
   1. [ ] to-watch | udemy []()
-  1. [ ] to-watch | udemy []()
+  1. [ ] to-watch | udemy [Getting Started with Vue JS](https://www.udemy.com/getting-started-with-vue-js/learn/v4/overview)
 
   1. [ ] to-watch | udemy [Vue.js 2 Academy: Learn Vue Step by Step](https://www.udemy.com/vuejs-2-academy-learn-vue-vuex-step-by-step/learn/v4/overview)
   1. [ ] to-watch | udemy [Vue JS 2: From Beginner to Professional (includes Vuex)](https://www.udemy.com/vuejs-from-beginner-to-professional/learn/v4/overview)
