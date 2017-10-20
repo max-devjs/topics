@@ -356,7 +356,7 @@
 
   1. [ ] to-read []()
   1. [ ] to-read []()
-  1. [ ] to-read []()
+  1. [ ] to-read [7 Ways To Define A Component Template in VueJS](https://medium.com/js-dojo/7-ways-to-define-a-component-template-in-vuejs-c04e0c72900d)
   1. [ ] to-read [Bundle and publish your Vue componet like a pro](https://medium.com/poi-js/bundle-and-publish-your-vue-componet-like-a-pro-9ce27f9b5f65)
   1. [ ] to-read [Vue.js Single-File JavaScript Components In The Browser](https://vuejsdevelopers.com/2017/09/24/vue-js-single-file-javascript-components)
   1. [ ] to-read [Vue.js communication Part 1: single component](https://gambardella.info/2017/08/31/vue-js-communication-single-component/)
