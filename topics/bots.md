@@ -41,6 +41,7 @@
   1. [Api.ai](apiai.md)
   1. [ ] to-check [botsbrasil.com.br](http://www.botsbrasil.com.br/)
   1. [ ] to-check [github.com/ireade/botsofcode](https://github.com/ireade/botsofcode)
+  1. [ ] to-check [github.com/slackapi/reacjilator](https://github.com/slackapi/reacjilator)
 
 ### Courses
 
