@@ -23,6 +23,8 @@
 
 ### Tutorials
 
+  1. [ ] to-read [Oh snap, snapshots! Unit & integration testing with Jest & Enzyme](https://hackernoon.com/oh-snap-snapshots-unit-integration-testing-with-jest-enzyme-13cc18aecb7b) A screenshot journey
+
   1. [ ] to-read [Redux unit testing with Jest](https://hackernoon.com/redux-unit-testing-with-jest-f3a18f387f75)
 
   1. [ ] to-read [How to Test React Components Using Jest](https://www.sitepoint.com/test-react-components-jest)
