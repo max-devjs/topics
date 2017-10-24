@@ -9,8 +9,8 @@
   - [Tutorials](#tutorials)
 <!-- /MarkdownTOC -->
 
-  1. [ ] to-read []()
   1. [ ] to-check []()
+  1. [ ] to-read []()
   1. [ ] to-watch []()
 
 ### Courses
@@ -52,3 +52,7 @@
 
 ### Tutorials
 
+  1. [ ] to-read []()
+  1. [ ] to-read []()
+  1. [ ] to-read []()
+  1. [ ] to-read [How Is New Terminal In VS Code So Fast?](https://codeburst.io/source-reading-how-is-new-terminal-in-vs-code-so-fast-10a40f7f8792)
