@@ -101,6 +101,8 @@
   1. [ ] to-read []()
   1. [ ] to-read []()
 
+  1. [ ] to-read [How I Created a Simple Game with Expo, React Native & Redux](https://codeburst.io/how-i-created-a-simple-game-with-expo-react-native-redux-cf4f0580f7f3)
+
   1. [ ] to-read [JavaScript: Do you like games? (part 1)](https://blog.hellojs.org/javascript-do-you-like-games-part-1-c1320c2c52ec)
 
 #### Phaser
