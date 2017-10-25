@@ -33,6 +33,9 @@
 
 ### Courses
 
+  1. [ ] to-watch | egghead []()
+  1. [ ] to-watch | egghead []()
+  1. [ ] to-watch | egghead [Create a News App with Vue.js and Nuxt](https://egghead.io/courses/create-a-news-app-with-vue-js-and-nuxt)
   1. [ ] to-watch | egghead [Build a Server Rendered Vue.js App with Nuxt and Vuex](https://egghead.io/courses/build-a-server-rendered-vue-js-app-with-nuxt-and-vuex)
 
 ### Tutorials
