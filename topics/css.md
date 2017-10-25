@@ -29,7 +29,7 @@
 
   1. [ ] to-watch | udemy []()
   1. [ ] to-watch | udemy []()
-  1. [ ] to-watch | udemy []()
+  1. [ ] to-watch | udemy [Magic of CSS made easy learn Website Design with CSS](https://www.udemy.com/introduction-to-css-web-development-bootcamp/learn/v4/overview)
   1. [ ] to-watch | udemy [Learn to Create Advance Responsive Websites With Bootstrap](https://www.udemy.com/responsive-website-with-bootstrap/learn/v4/overview)
   1. [ ] to-watch | udemy [Code Mobile first websites Rapidly with Emmet & Bootstrap  4](https://www.udemy.com/emmet-video-tutorials/learn/v4/overview)
   1. [ ] to-watch | udemy [CSSCasts; CSS libraries Plugins Tips & Tricks for Developers](https://www.udemy.com/csscasts-css-libraries-plugins-tips-tricks-for-developers/learn/v4/overview)

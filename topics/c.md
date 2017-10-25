@@ -20,6 +20,12 @@
 
 ### Courses
 
+  1. [ ] to-watch | udemy []()
+  1. [ ] to-watch | udemy []()
+  1. [ ] to-watch | udemy []()
+  1. [ ] to-watch | udemy []()
+  1. [ ] to-watch | udemy [Learn and Understand C++](https://www.udemy.com/learn-c-plus-plus-from-beginner-to-advanced/learn/v4/overview)
+
   1. [ ] to-watch | youtube []()
   1. [ ] to-watch | youtube []()
   1. [ ] to-watch | udemy [Curso de C++ - Intermediário](https://www.udemy.com/cplusplus-intermediario/learn/v4/overview)

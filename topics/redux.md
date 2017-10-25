@@ -21,6 +21,13 @@
   1. [ ] to-watch [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 
   1. [ ] to-watch | playlist [Learn Redux](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5uyzEWxdlr9WQTJJIzr6jy)
+
+  1. [ ] to-watch | udemy []()
+  1. [ ] to-watch | udemy []()
+  1. [ ] to-watch | udemy []()
+  1. [ ] to-watch | udemy []()
+  1. [ ] to-watch | udemy [React JS and Redux - Mastering Web Apps](https://www.udemy.com/react-js-and-redux-mastering-web-apps/learn/v4/overview)
+
   1. [ ] to-watch [Learn Redux #1 — Setting Up Our Webpack Environment](https://www.youtube.com/watch?v=hmwBow1PUuo&list=PLu8EoSxDXHP5uyzEWxdlr9WQTJJIzr6jy&index=1)
 
 ### Readings

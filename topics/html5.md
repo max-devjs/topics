@@ -24,6 +24,9 @@
 
   1. [ ] to-watch | udemy []()
   1. [ ] to-watch | udemy []()
+  1. [ ] to-watch | udemy []()
+  1. [ ] to-watch | udemy []()
+  1. [ ] to-watch | udemy [Building HTML5 Canvas projects from scratch](https://www.udemy.com/building-html5-canvas-projects-from-scratch/learn/v4/overview)
   1. [ ] to-watch | udemy [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/learn/v4/overview)
   1. [ ] to-watch | udemy []()
   1. [ ] to-watch | udemy [HTML5 canvas Bootcamp for beginners](https://www.udemy.com/html5-canvas-course-for-beginners/learn/v4/overview)

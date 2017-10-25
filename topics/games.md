@@ -48,9 +48,9 @@
   1. [ ] to-watch | udemy []()
   1. [ ] to-watch | udemy []()
   1. [ ] to-watch | udemy []()
-  1. [ ] to-watch | udemy []()
-  1. [ ] to-watch | udemy []()
-  1. [ ] to-watch | udemy []()
+  1. [ ] to-watch | udemy [Flappy Bird Clone - The Complete SFML C++ Game Course](https://www.udemy.com/flappy-bird-sfml/learn/v4/overview)
+  1. [ ] to-watch | udemy [Tic-Tac-Toe Clone - The Complete SFML C++ Game Course](https://www.udemy.com/tic-tac-toe-sfml/learn/v4/overview)
+  1. [ ] to-watch | udemy [HTML5 Game from scratch step by step learning JavaScript](https://www.udemy.com/html5-game-from-scratch-step-by-step-learning-javascript/learn/v4/overview)
   1. [ ] to-watch | udemy [Welcome to Intro to HTML5 Game Development](https://www.udemy.com/intro-to-html5-game-development/learn/v4/overview)
   1. [ ] to-watch | udemy [Game Design for Mobile and Desktop](https://www.udemy.com/game-design-for-mobile-and-desktop/learn/v4/overview)
   1. [ ] to-watch | udemy [JavaScript Game Development: Create Your Own Breakout Game](https://www.udemy.com/javascript-game-development-create-your-own-breakout-game/learn/v4/overview)
@@ -100,6 +100,8 @@
   1. [ ] to-read []()
   1. [ ] to-read []()
   1. [ ] to-read []()
+
+  1. [ ] to-read [Tic-Tac-Toe with Javascript ES2015: Set up the project with webpack](https://medium.com/@alialaa/tic-tac-toe-with-javascript-es2015-set-up-the-project-with-webpack-547eadca8016)
 
   1. [ ] to-read [How I Created a Simple Game with Expo, React Native & Redux](https://codeburst.io/how-i-created-a-simple-game-with-expo-react-native-redux-cf4f0580f7f3)
 

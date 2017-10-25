@@ -45,6 +45,11 @@
 
 ### Courses
 
+  1. [ ] to-watch | udemy []()
+  1. [ ] to-watch | udemy []()
+  1. [ ] to-watch | udemy []()
+  1. [ ] to-watch | udemy [ChatBots: How to Make a Facebook Messenger Chat Bot in 1hr](https://www.udemy.com/chatbots-how-to-make-chat-bot-for-facebook-messenger/learn/v4/overview)
+
   1. [ ] to-watch | egghead [Create your own twitter bots](https://egghead.io/courses/create-your-own-twitter-bots)
 
 ### Events

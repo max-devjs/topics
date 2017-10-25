@@ -25,6 +25,12 @@
 
 ### Courses
 
+  1. [ ] to-watch | udemy []()
+  1. [ ] to-watch | udemy []()
+  1. [ ] to-watch | udemy []()
+  1. [ ] to-watch | udemy [The Complete Python 3 Course: Go from Beginner to Advanced!](https://www.udemy.com/learn-python-3-from-beginner-to-advanced/learn/v4/overview)
+  1. [ ] to-watch | udemy [30 Days of Python | Unlock your Python Potential](https://www.udemy.com/30-days-of-python/learn/v4/overview)
+
   1. [ ] to-watch | youtube [Python Programming Tutorials (Computer Science)](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
 
 

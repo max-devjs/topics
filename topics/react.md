@@ -30,6 +30,12 @@
 
   1. [ ] to-check | udacity [react-nanodegree--nd019](https://br.udacity.com/course/react-nanodegree--nd019/)
 
+  1. [ ] to-check | udemy []()
+  1. [ ] to-check | udemy []()
+  1. [ ] to-check | udemy []()
+  1. [ ] to-check | udemy []()
+  1. [ ] to-check | udemy [Beginner Full Stack Web Development: HTML, CSS, React & Node](https://www.udemy.com/ultimate-web/learn/v4/overview)
+
   1. [ ] to-read [Complete Intro to React](https://btholt.github.io/complete-intro-to-react/page/landing/)
   1. [ ] to-watch | playlist [Sizzy](https://www.youtube.com/playlist?list=PLeRG3Z4BGWXR1yE8176LxtAj0Xyb_VI7L)
 
