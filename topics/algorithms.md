@@ -30,7 +30,7 @@
 ### Examples
 
   1. [ ] to-check []()
-  1. [ ] to-check []()
+  1. [ ] to-check [Sorting algorithms visualized [OC]](https://www.reddit.com/r/dataisbeautiful/comments/78fywy/sorting_algorithms_visualized_oc/)
   1. [ ] to-check [github.com/highflyer910/JS_algorithms](https://github.com/highflyer910/JS_algorithms)
   1. [ ] to-check [github.com/jiayihu/pretty-algorithms](https://github.com/jiayihu/pretty-algorithms) Pretty, common and useful algorithms with modern JS and beautiful tests
 
