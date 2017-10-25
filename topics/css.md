@@ -6,6 +6,9 @@
   - [Courses](#courses)
   - [Readings](#readings)
   - [Tutorials](#tutorials)
+    - [Animations](#animations)
+    - [Grid](#grid)
+    - [Writing](#writing)
   - [Videos](#videos)
 <!-- /MarkdownTOC -->
 
@@ -48,6 +51,11 @@
 
 ### Tutorials
 
+#### Animations
+
+  1. [ ] to-read []()
+  1. [ ] to-read [A quick introduction to CSS animations](https://medium.com/learning-new-stuff/a-quick-introduction-to-css-animations-8ecb2f150792)  
+  1. [ ] to-read [Animating with CSS Variables](http://valhead.com/2017/07/21/animating-with-css-variables/)
 
 #### Grid
 
@@ -69,11 +77,9 @@
   1. [ ] to-read [Locally Scoped CSS Variables: What, How, and Why](https://una.im/local-css-vars/)
   1. [ ] to-read [3 Essential Tips for Refactoring CSS Without Losing Your Mind](https://www.shopify.com/partners/blog/3-essential-tips-for-refactoring-css-without-losing-your-mind-from-harry-roberts)
 
-#### Animations
+#### Writing
 
-  1. [ ] to-read []()
-  1. [ ] to-read [A quick introduction to CSS animations](https://medium.com/learning-new-stuff/a-quick-introduction-to-css-animations-8ecb2f150792)  
-  1. [ ] to-read [Animating with CSS Variables](http://valhead.com/2017/07/21/animating-with-css-variables/)
+  1. [x] to-read [CSS Writing Modes](https://24ways.org/2016/css-writing-modes/)
 
 ### Videos
 
