@@ -2,7 +2,7 @@
 
 # Table of Contents
 <!-- MarkdownTOC depth=4 -->
-  - [](#)
+  - [Courses](#courses)
   - [](#)
   - [](#)
   - [Readings](#readings)
@@ -12,6 +12,10 @@
   1. [ ] to-check []()
   1. [ ] to-read []()
   1. [ ] to-watch []()
+
+### Courses
+
+  1. [ ] to-watch [Diving into ESLint](https://mead.io/eslint)
 
 ### Readings
 
