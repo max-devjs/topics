@@ -199,6 +199,8 @@
   1. [ ] to-read []()
   1. [ ] to-read []()
   1. [ ] to-read []()
+
+  1. [x] to-read [VueJs: The basics in 4 mins](https://codeburst.io/vuejs-the-basics-in-4-mins-6208df76003d)
   1. [ ] to-read [Tips from a Lowly VueJS Developer](https://medium.com/@denny.headrick/tips-from-a-lowly-vuejs-developer-381b6956aece)
 
   1. [ ] to-read [Vue.Js Vs. Jquery: Use Cases and Comparison with Examples](https://scotch.io/bar-talk/vuejs-vs-jquery-use-cases-and-comparison-with-examples)
