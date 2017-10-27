@@ -68,6 +68,13 @@
   1. [ ] to-read [How to Structure Your React Project](https://daveceddia.com/react-project-structure)
   1. [ ] to-read [How to build a dashboard for your grill using Arduino and React](https://medium.freecodecamp.org/how-to-build-a-dashboard-for-your-grill-using-arduino-and-react-425fb8d57ffe)
 
+
+#### Debugging
+
+  1. [ ] to-read []()
+  1. [ ] to-read []()
+  1. [ ] to-read [Debugging React Like a Champ with VSCode](https://hackernoon.com/debugging-react-like-a-champ-with-vscode-66281760037)
+
 #### Security
 
   1. [ ] to-read [Exploiting Script Injection Flaws in ReactJS Apps](https://medium.com/@muellerberndt/exploiting-script-injection-flaws-in-reactjs-883fb1fe36c1)
