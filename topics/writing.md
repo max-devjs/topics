@@ -19,6 +19,10 @@
 
 ### Readings
 
+  1. [ ] to-read [The Ultimate Cheat Sheet To Writing Your First Book](https://medium.com/the-mission/the-ultimate-cheat-sheet-to-writing-your-first-book-4dbae9b28ace)
+  1. [ ] to-read [Want to Be a Writer? Do This Simple Technique](https://medium.com/the-mission/want-to-be-a-writer-do-this-simple-technique-a41a4c66dce9)
+  1. [ ] to-read [What to Read While Drafting](https://writingcooperative.com/what-to-read-while-drafting-455713fc8ba9)
+
   1. [ ] to-read [How to Start a Blog In The Most Cluttered Marketplace In History](https://medium.com/swlh/how-to-start-a-blog-in-the-most-cluttered-marketplace-in-history-ef50db328a09) I will publish an article only when I have something important to say.
   1. [ ] to-read []()
   1. [ ] to-read []()
