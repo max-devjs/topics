@@ -10,6 +10,9 @@
   - [Tutorials](#tutorials)
     - [Apps](#apps)
     - [Components](#components)
+    - [Debugging](#debugging)
+    - [Performance](#performance)
+    - [Security](#security)
 <!-- /MarkdownTOC -->
 
   1. [ ] to-check []()
@@ -68,6 +71,9 @@
   1. [ ] to-read [How to Structure Your React Project](https://daveceddia.com/react-project-structure)
   1. [ ] to-read [How to build a dashboard for your grill using Arduino and React](https://medium.freecodecamp.org/how-to-build-a-dashboard-for-your-grill-using-arduino-and-react-425fb8d57ffe)
 
+#### Components
+
+  1. [ ] to-read [Why Higher Order Components Make Sense](https://medium.com/javascript-inside/why-higher-order-components-make-sense-fe4145b4e305) Higher Order Components compose!
 
 #### Debugging
 
@@ -75,10 +81,11 @@
   1. [ ] to-read []()
   1. [ ] to-read [Debugging React Like a Champ with VSCode](https://hackernoon.com/debugging-react-like-a-champ-with-vscode-66281760037)
 
+#### Performance
+
+  1. [ ] to-read []()
+  1. [ ] to-read [Optimizing React application with mobx](https://blog.lavrton.com/optimizing-react-application-with-mobx-f101785379d9)
+
 #### Security
 
   1. [ ] to-read [Exploiting Script Injection Flaws in ReactJS Apps](https://medium.com/@muellerberndt/exploiting-script-injection-flaws-in-reactjs-883fb1fe36c1)
-
-#### Components
-
-  1. [ ] to-read [Why Higher Order Components Make Sense](https://medium.com/javascript-inside/why-higher-order-components-make-sense-fe4145b4e305) Higher Order Components compose!
