@@ -76,6 +76,8 @@
 
 ### Readings
 
+  1. [ ] to-read [Why most Front End Dev interviews (#JavaScript #Typescript) are Shit](https://dev.to/k_ivanow/why-most-front-end-dev-interviews-javascript-typescript-are-shit-2hc)
+
   1. [ ] to-read [How do I know if I’m good at programming?](https://dev.to/rusrushal13/how-do-i-know-if-im-good-at-programming)
 
   1. [ ] to-read [Master the JavaScript Interview: What is a Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
