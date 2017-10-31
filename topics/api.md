@@ -24,6 +24,7 @@
   1. [ ] to-read [RESTful API design with Node.js](https://hackernoon.com/restful-api-design-with-node-js-26ccf66eab09)
 
   1. [ ] to-read [O Guia Definitivo para construção de APIs REST](https://medium.com/clebertech/o-guia-definitivo-para-constru%C3%A7%C3%A3o-de-apis-rest-470d0c885fe1) Ou: como não escrever APIs que fedem
+  1. [x] to-read [A Brief Introduction to REST APIs](https://dev.to/benhayehudi/a-brief-introduction-to-rest-apis-172)
 
 ### Twitter
 
