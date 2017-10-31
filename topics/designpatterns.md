@@ -15,6 +15,9 @@
 
 ### Factory
 
+  1. [ ] to-read []()
+  1. [ ] to-read []()
+  1. [ ] to-read [Design Patterns: Factory Pattern, Part 1](https://dev.to/henriguy/design-patterns-factory-pattern-part-1-6k0)
   1. [ ] to-read [What is a Factory Design Pattern?](https://codeburst.io/what-is-a-factory-design-pattern-d3315ccc912b)
 
 ### Instantiation
