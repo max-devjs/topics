@@ -3,8 +3,9 @@
 # Table of Contents
 <!-- MarkdownTOC depth=4 -->
   - [Apps](#apps)
+  - [Books](#books)
   - [People](#people)
-  - [](#)
+  - [Readings](#readings)
 <!-- /MarkdownTOC -->
 
   1. [ ] to-check []()
@@ -41,6 +42,11 @@
   1. [x] to-read [How I replicated an $86 million project in 57 lines of code](https://medium.com/@taitems/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9) When an experiment with existing open source technology does a “good enough” jo
   1. [x] to-read [What I learned building code that builds (Visual Studio) Code](https://headmelted.com/what-i-learned-building-code-that-builds-visual-studio-code-b520b1d83d0f) An automated assembly line for Visual Studio Code on ARM
 
+### Books
+
+  1. [ ] to-read []()
+  1. [ ] to-read []()
+
 ### People
 
   1. [ ] to-read [HTML, CSS, and JavaScript: 10 Awesome CodePens To Inspire You](https://codeburst.io/html-css-and-javascript-10-awesome-codepens-to-inspire-you-420bbde87be1)
@@ -56,6 +62,8 @@
   1. [ ] to-read []()
   1. [ ] to-read []()
   1. [ ] to-read []()
+  1. [ ] to-read [This 300-Year-Old System Will Help You Become the Best Version of Yourself](https://medium.com/the-mission/this-300-year-old-system-will-help-you-become-the-best-version-of-yourself-1c0d3601ae68)
+
   1. [ ] to-read [10 incredible Quotes to guide your life.](https://medium.com/hi-my-name-is-jon/10-incredible-quotes-to-guide-your-life-617b5bb72d76)
   1. [ ] to-read [Doing Less in Your App to Give More to Your Users](https://medium.com/chingu/doing-less-in-your-app-to-give-more-to-your-users-e8b46416fa7e)
 
