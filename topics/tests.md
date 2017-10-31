@@ -29,6 +29,7 @@
   1. [ ] to-read [No excuses, write unit tests](https://dev.to/jackmarchant/no-excuses-write-unit-tests)
 
   1. [ ] to-read [Running 4558 Tests in 1m 55sec (or Saving 50 Hours/week)](https://engineering.classdojo.com/blog/2017/05/21/Running-4558-tests-in-1m-55sec/)
+  1. [x] to-read [My honest opinion about Unit Testing](https://hackernoon.com/my-honest-opinion-about-unit-testing-84eee5e893ad)
 
 ### Tools
 
