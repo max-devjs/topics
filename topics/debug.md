@@ -21,6 +21,7 @@
 
   1. [ ] to-read [Save time and money by writing useful bug reports](https://codeburst.io/save-time-and-money-by-writing-useful-bug-reports-8f501ff00bb3) Bad bug reports are not only annoying because they create a lot of overhead and cost time, but they also indirectly cost money. By considering to add some more information to your next bug report you take a step into the right direction to avoid that.
 
+  1. [x] to-read [The 14 JavaScript debugging tips you probably didn't know](https://raygun.com/javascript-debugging-tips)
   1. [x] to-read [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
   1. [x] to-read [The art of asking “coding” questions](https://programmingwithmosh.com/general/art-asking-coding-questions)
 
