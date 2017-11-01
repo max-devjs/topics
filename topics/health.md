@@ -13,7 +13,7 @@
   - [Joints](#joints)
   - [Readings](#readings)
   - [Sleep](#sleep)
-  - [](#)
+  - [Sugar](#sugar)
   - [Tutorials](#tutorials)
 <!-- /MarkdownTOC -->
 
@@ -109,6 +109,10 @@
 ### Sleep
 
   1. [ ] to-read [The shorter your sleep, the shorter your life: the new sleep science](https://www.theguardian.com/lifeandstyle/2017/sep/24/why-lack-of-sleep-health-worst-enemy-matthew-walker-why-we-sleep)
+
+### Sugar
+
+  1. [x] to-read [This Infographic Shows What Eating Too Much Sugar Does to Your Body And Brain](http://www.sciencealert.com/here-s-what-eating-too-much-sugar-does-to-your-body-and-brain)
 
 ### Teeth
 
