@@ -47,6 +47,7 @@
   1. [ ] to-read [I'm writing a new book: Modern Vim](http://vimcasts.org/blog/2017/05/working-title-modern-vim/)
   1. [ ] to-read [NeoVim and Atom](https://medium.com/usevim/neovim-and-atom-d8c3d54484bd)
   1. [x] to-read [How to Switch to Vim Without Ruining Your Workflow](https://10clouds.com/blog/switch-to-vim/)
+  1. [x] to-read [incsearch.vim is dead. Long live incsearch](https://medium.com/@haya14busa/incsearch-vim-is-dead-long-live-incsearch-2b7070d55250)
 
 ### Tutorials
 
