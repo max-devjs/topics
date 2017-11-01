@@ -21,7 +21,7 @@
 
   1. [ ] to-read []()
   1. [ ] to-read []()
-  1. [ ] to-read []()
+  1. [ ] to-read [How to get hired through social media](https://dev.to/yelluw/how-to-get-hired-through-social-media-2k1)
 
   1. [ ] to-read [Anyone care to chime in on getting your first JS job? ](https://twitter.com/wesbos/status/864996336529268736)
   1. [ ] to-read [How to get into first JS dev job? #148](https://github.com/wesbos/ama/issues/148)
