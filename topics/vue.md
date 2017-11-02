@@ -137,7 +137,7 @@
 
   1. [ ] to-watch | laracasts [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step)
 
-  1. [ ] to-watch | udemy []()
+  1. [ ] to-watch | udemy [Vue JS 2.0 - Mastering Web Apps](https://www.udemy.com/vue-web-apps/learn/v4/overview)
   1. [ ] to-watch | udemy []()
   1. [ ] to-watch | udemy []()
   1. [ ] to-watch | udemy []()
