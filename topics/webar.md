@@ -56,4 +56,5 @@
 
 ### Videos
 
+  1. [x] to-watch [[DevFest Nantes 2017] On the path to WebAR](https://www.youtube.com/watch?v=G5gtktwn-2U)
   1. [x] to-watch | youtube [AR Experiments: Explorations in Augmented Reality](https://www.youtube.com/watch?v=y4bIcUv0lbU&)
