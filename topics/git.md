@@ -31,6 +31,8 @@
 
 ### Readings
 
+  1. [ ] to-read [Stop aliasing core Git commands](https://dev.to/gonedark/stop-aliasing-core-git-commands)
+
   1. [ ] to-read [Performing a PR Review](https://dev.to/dijitalmunky/performing-a-pr-review)
   1. [ ] to-read [Rewriting the History](https://hackernoon.com/rewriting-the-history-c0e16c4942d3)
   1. [ ] to-read []()
