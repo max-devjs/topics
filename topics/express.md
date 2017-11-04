@@ -21,7 +21,7 @@
 
   1. [ ] to-read []()
   1. [ ] to-read []()
-  1. [ ] to-read []()
+  1. [ ] to-read [Going out to eat and understanding the basics of Express.js](https://medium.freecodecamp.org/going-out-to-eat-and-understanding-the-basics-of-express-js-f034a029fb66)
   1. [ ] to-read [Node.js — Express — Criando seus módulos automagicamente](https://medium.com/@osuissa/node-js-express-criando-modulos-automagicamente-fe41401d0292)
 
   1. [ ] to-read [Express Basics — Part 1](https://medium.com/@daimenworrall/express-basics-part-1-ab8369919ea5)
