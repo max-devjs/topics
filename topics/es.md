@@ -331,6 +331,7 @@
   1. [ ] to-read [Folding Promises in JavaScript](https://www.linkedin.com/pulse/folding-promises-javascript-vladim%C3%ADr-gorej)
   1. [ ] to-read [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
   1. [ ] to-read [Master the JavaScript Interview: What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
+  1. [x] to-read [JavaScript: Learn Promises](https://codeburst.io/javascript-learn-promises-f1eaa00c5461) JavaScript Promises made easy. Learn the basics in 5 minutes.
 
 #### Prototyping
 
