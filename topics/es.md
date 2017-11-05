@@ -21,6 +21,7 @@
     - [Apps](#apps)
     - [Arrays](#arrays)
     - [Binary Search](#binary-search)
+    - [Callbacks](#callbacks)
     - [Call Stacks](#call-stacks)
     - [Canvas API](#canvas-api)
     - [Closures](#closures)
@@ -219,6 +220,12 @@
 #### Binary Search
 
   1. [ ] to-read [Binary Search in JavaScript. A practical Example](https://codeburst.io/binary-search-in-javascript-a-practical-example-7fda60ce59a1) Learn what a binary search is with the help of terribly drawn pictures and a code example
+
+#### Callbacks
+
+  1. [ ] to-read []()
+  1. [ ] to-read []()
+  1. [x] to-read [JavaScript: What the heck is a Callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced) Learn and understand the basics of callbacks in just 6 minutes with easy examples.
 
 #### Call Stacks
 
