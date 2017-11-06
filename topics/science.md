@@ -27,6 +27,7 @@
   1. [ ] to-read []()
   1. [ ] to-read [How a Napping Subway Commuter’s Brain Knows When It’s Their Stop](http://nymag.com/scienceofus/2017/06/how-napping-subway-commuters-know-when-theyre-at-their-stop.html)
 
+  1. [x] to-read [Why Do People Hate the Sound of Their Own Voices?](https://www.livescience.com/55527-why-people-hate-the-sound-of-their-voice.html)
   1. [x] to-read [Physicists Accidentally Discover a Self-Destruct Button for the Entire Universe](http://bigthink.com/philip-perry/physicists-accidently-discover-a-self-destruct-button-for-the-entire-universe)
   1. [x] to-read [You Look Familiar. Now Scientists Know Why.](https://www.nytimes.com/2017/06/01/science/facial-recognition-brain-neurons.html)
   1. [x] to-read [What the Earth will look like in 2050, according to experts and people who live here](https://www.theverge.com/2017/4/6/15209102/earth-2050-interactive-map-kaspersky-labs-anniversary#5659072-tw)
