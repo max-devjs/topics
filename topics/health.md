@@ -109,6 +109,7 @@
 ### Sleep
 
   1. [ ] to-read [The shorter your sleep, the shorter your life: the new sleep science](https://www.theguardian.com/lifeandstyle/2017/sep/24/why-lack-of-sleep-health-worst-enemy-matthew-walker-why-we-sleep)
+  1. [x] to-read [Sleep Deprivation Has The Same Effect as Drinking Too Much, Says Study](http://www.sciencealert.com/tiredness-sleep-deprivation-the-same-as-drinking-too-much)
 
 ### Sugar
 
