@@ -20,6 +20,8 @@
 
 ### Readings
 
+  1. [ ] to-read [How To Bootstrap Your Startup’s HR (And When Not To)](https://hackernoon.com/how-to-bootstrap-your-startups-hr-and-when-not-to-8f2c46902e7)
+
   1. [x] to-read [How I stopped procrastinating, learned to code, and launched my first product](https://dev.to/lynnetye/how-i-stopped-procrastinating-learned-to-code-and-launched-my-first-product-2i1)
 
   1. [ ] to-read [Turn your Stripe account into an online business](https://hackernoon.com/turn-your-stripe-account-into-an-online-business-6becd0ee0f8d)
