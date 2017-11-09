@@ -44,6 +44,8 @@
 
 ### Tutorials
 
+  1. [ ] to-read [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
+
   1. [ ] to-read [Learning GraphQL with Firebase: Part 1](https://codeburst.io/learning-graphql-with-firebase-part-1-6cb0ae1499a4)
   1. [ ] to-read [Learning GraphQL with Firebase: Part 2](https://codeburst.io/learning-graphql-with-firebase-part-2-5ec464be3543)
   1. [ ] to-read [Learning GraphQL with Firebase: Part 3](https://codeburst.io/learning-graphql-with-firebase-part-3-34f8f5ee9a28)
