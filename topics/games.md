@@ -99,7 +99,7 @@
   1. [ ] to-read []()
   1. [ ] to-read []()
   1. [ ] to-read []()
-  1. [ ] to-read []()
+  1. [ ] to-read [Building an AI algorithm for the Tic-Tac-Toe challenge](https://medium.freecodecamp.org/building-an-ai-algorithm-for-the-tic-tac-toe-challenge-29d4d5adee07)
 
   1. [ ] to-read [Tic-Tac-Toe with Javascript ES2015: Set up the project with webpack](https://medium.com/@alialaa/tic-tac-toe-with-javascript-es2015-set-up-the-project-with-webpack-547eadca8016)
 
