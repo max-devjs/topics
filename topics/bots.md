@@ -163,6 +163,8 @@
 
 #### Slack
 
+  1. [ ] to-read [Use a Slack bot to deploy your app](https://dev.to/adrienchauve/use-a-slack-bot-to-deploy-your-app-347)
+
   1. [ ] to-read [The 5 Steps in a Build-to-Learn Project: MDNbot’s coding journey](https://medium.com/chingu/mdnbot-coding-journey-38f4dc773da0)
 
   1. [ ] to-read []()
