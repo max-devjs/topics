@@ -16,6 +16,9 @@
 
   1. [ ] to-read []()
   1. [ ] to-read []()
+
+  1. [x] to-read [Making a Side Project](https://hackernoon.com/making-a-side-project-808fc040d27a)
+
   1. [ ] to-read [Side Projects Matter](http://philippe.bourgau.net/side-projects-matter/)
   1. [x] to-read [Stop Asking, Start Doing](https://dev.to/_patrickgod/stop-asking-start-doing)
   1. [x] to-read [Finding Ideas for Programming Side Projects](https://dev.to/samjarman/finding-ideas-for-programming-side-projects)
