@@ -94,6 +94,8 @@
   1. [ ] to-read [Thank You For Inviting Me To Build Your App In Exchange For Equity, Kind Stranger](https://hackernoon.com/thank-you-for-inviting-me-to-build-your-app-in-exchange-for-equity-kind-stranger-a3ec1644cb0a)
 
   1. [ ] to-read [Deep Teaching: The Sexiest Job of the Future](https://medium.com/intuitionmachine/why-teaching-will-be-the-sexiest-job-of-the-future-a-i-economy-b8e1c2ee413e)
+
+  1. [x] to-read [A note to my younger self (and everyone who reads this)](https://dev.to/kpath001/note-to-younger-selfand-everyone-who-reads-this)
   1. [x] to-read [From Zero to Hero (How I became a professional developer in a year)](https://dev.to/enether/from-zero-to-hero-how-i-became-a-professional-developer-in-a-year)
   1. [x] to-read [4 Things you should prepare before working as a Junior FrontEnd developer / Intern](https://codeburst.io/4-things-you-should-prepare-before-working-as-a-junior-frontend-developer-intern-c8fd6cf382b3)
   1. [x] to-read [Coding Is Impossible! How Can I Find Time?](https://medium.com/career-change-coder/coding-is-impossible-how-can-i-find-time-a71ea2b25dd8)
