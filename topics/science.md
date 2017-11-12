@@ -68,6 +68,8 @@
 
   1. [ ] to-watch | youtube []()
 
+  1. [x] to-watch | youtube [Brilliantly Simple Explanation of Quantum Entanglement](https://www.scienceandnonduality.com/videos/brilliantly-simple-explanation-of-quantum-entanglement)
+
   1. [x] to-watch | youtube [The Most Efficient Way to Destroy the Universe – False Vacuum](https://www.youtube.com/watch?v=ijFm6DxNVyI)
   1. [x] to-watch | youtube [The Common Character Trait of Geniuses](https://www.youtube.com/watch?v=Ym6whrAw8wU)
   1. [x] to-watch | youtube [Michio Kaku: The Supergenius](https://www.youtube.com/watch?v=vue8jsLqPbo)
