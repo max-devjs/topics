@@ -113,6 +113,10 @@
   1. [ ] to-watch [Angular 4.3 HttpClient (Accessing REST Web Services With Angular)](http://codingthesmartway.com/angular-4-3-httpclient-accessing-rest-web-services-with-angular/)
   1. [ ] to-read [AngularJS: Service vs Factory vs Providers made super simple](http://ngninja.com/posts/angularjs-service-factory-provider)
 
+### Animations
+
+  1. [ ] to-read [animationsftw.in](http://animationsftw.in/#/)
+
 #### Apps
 
   1. [ ] to-read []()
