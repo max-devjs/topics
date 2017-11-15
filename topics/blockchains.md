@@ -27,6 +27,8 @@
   1. [ ] to-read []()
   1. [ ] to-read [How will crypto apps make money?](https://hackernoon.com/how-will-crypto-apps-make-money-a1c5c5d01285)
   
+  1. [ ] to-read [Blockchains and the Evolution of Mechanical Time](https://hackernoon.com/blockchains-and-the-evolution-of-mechanical-time-60295326d9c2)
+  
   1. [ ] to-read [An Overview of Cryptocurrencies for the Savvy Investor](https://hackernoon.com/all-you-need-to-know-about-cryptocurrencies-an-overview-for-the-savvy-investor-bdc035b14982)
 
   1. [ ] to-read [How does blockchain really work? I built an app to show you.](https://medium.freecodecamp.org/how-does-blockchain-really-work-i-built-an-app-to-show-you-6b70cd4caf7d)
