@@ -4,6 +4,9 @@
 <!-- MarkdownTOC depth=4 -->
   - [Courses](#courses)
   - [Extensions](#extensions)
+    - [VueJS](#vuejs)
+  - [Features](#features)
+    - [Share](#share)
   - [Readings](#readings)
   - [Settings](#settings)
   - [Tutorials](#tutorials)
@@ -38,6 +41,16 @@
   1. [ ] to-check []()
   1. [ ] to-check []()
   1. [ ] to-check [Vue Peek](https://marketplace.visualstudio.com/items?itemName=dariofuzinato.vue-peek) Allows peek and goto definition for Vue single-file components.
+
+### Features
+
+  1. [ ] to-read []()
+  1. [ ] to-read []()
+  1. [ ] to-read []()
+
+#### Share
+
+  1. [x] to-read [Introducing Visual Studio Live Share](https://code.visualstudio.com/blogs/2017/11/15/live-share)
 
 ### Readings
 
