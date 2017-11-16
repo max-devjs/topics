@@ -47,7 +47,7 @@
 
   1. [ ] to-watch | udemy []()
   1. [ ] to-watch | udemy []()
-  1. [ ] to-watch | udemy []()
+  1. [ ] to-watch | udemy [Python Game Development : Creating a Snake Game from scratch](https://www.udemy.com/python-game-development-creating-a-snake-game-from-scratch/learn/v4/overview)
   1. [ ] to-watch | udemy [Flappy Bird Clone - The Complete SFML C++ Game Course](https://www.udemy.com/flappy-bird-sfml/learn/v4/overview)
   1. [ ] to-watch | udemy [Tic-Tac-Toe Clone - The Complete SFML C++ Game Course](https://www.udemy.com/tic-tac-toe-sfml/learn/v4/overview)
   1. [ ] to-watch | udemy [HTML5 Game from scratch step by step learning JavaScript](https://www.udemy.com/html5-game-from-scratch-step-by-step-learning-javascript/learn/v4/overview)
