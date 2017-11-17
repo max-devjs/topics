@@ -55,6 +55,7 @@
 ### Course
 
   1. [ ] to-watch | udemy [Advanced Javascript  ](https://www.udemy.com/top-javascript-interview-questions-and-answers/) [@jawache](https://medium.com/@jawache)
+  1. [ ] to-watch | udemy [Job Interview Skills Training Course](https://www.udemy.com/find-a-job-interview-skills-training-course/learn/v4/overview)
 
 ### Questions
 
