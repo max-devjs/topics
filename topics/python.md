@@ -27,7 +27,7 @@
 
   1. [ ] to-watch | udemy []()
   1. [ ] to-watch | udemy []()
-  1. [ ] to-watch | udemy []()
+  1. [ ] to-watch | udemy [Python for Beginners with Examples](https://www.udemy.com/ardit-sulce-python-for-beginners/learn/v4/overview)
   1. [ ] to-watch | udemy [Python for Absolute Beginners](https://www.udemy.com/python-for-absolute-beginners-u/learn/v4/overview)
 
   1. [ ] to-watch | udemy [The Complete Python 3 Course: Go from Beginner to Advanced!](https://www.udemy.com/learn-python-3-from-beginner-to-advanced/learn/v4/overview)
