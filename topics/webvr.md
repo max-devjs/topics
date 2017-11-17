@@ -40,6 +40,8 @@
   1. [ ] to-check [vrvoice](https://vrvoice.co/)
   1. [ ] to-check [virtualrealitypop](https://virtualrealitypop.com/)
 
+  1. [ ] to-read [The Present and Future of Augmented and Virtual Reality](https://hackernoon.com/the-present-and-future-of-augmented-reality-bf7213a1d4ea)
+
   1. [ ] to-read [Firefox 55: first desktop browser to support WebVR](https://hacks.mozilla.org/2017/08/firefox-55-supports-webvr/)
   1. [ ] to-read [Demos For Firefox 55 Release With WebVR](https://medium.com/arjs/demos-for-firefox-55-release-with-webvr-fb854bb9bb70) A Celebration of WebVR and A-Frame!
 
