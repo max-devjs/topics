@@ -19,6 +19,10 @@
 
   1. [ ] to-read [SOLID (object-oriented design)](https://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29)
 
+### Courses
+
+  1. [ ] to-watch | udemy [Getting Started With Software Testing Context and Basics](https://www.udemy.com/getting-started-with-software-testing-context-and-basics/learn/v4/overview)
+
 ### Readings
 
   1. [ ] to-read []()
