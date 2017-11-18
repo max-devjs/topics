@@ -66,7 +66,7 @@
 ### Readings
 
   1. [ ] to-read [Not enough friends? Get a bot!](https://dev.to/kbloked/not-enough-friends-get-a-bot-a2j)
-  1. [ ] to-read []()
+  1. [ ] to-read [Time to Clean your Audience — Ways to Spot a Bot on Social Media](https://chatbotsmagazine.com/time-to-clean-your-audience-ways-to-spot-a-bot-on-social-media-7b2f43119f2a)
   1. [ ] to-read []()
   1. [ ] to-read []()
   1. [ ] to-read [Now is a high time to start using bots/AI in a cruise industry or it will be too late](https://chatbotsmagazine.com/now-is-a-high-time-to-start-using-bots-ai-in-a-cruise-industry-or-it-will-be-too-late-efd00e2bd9e2)
