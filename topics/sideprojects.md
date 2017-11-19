@@ -21,6 +21,7 @@
   1. [x] to-read [Making a Side Project, Part 2: Idea Validation](https://medium.com/makesideproject/making-a-side-project-part-2-idea-validation-d682dd05c475)
   1. [x] to-read [Making a Side Project, Part 3: Minimum Usable Product](https://medium.com/makesideproject/making-a-side-project-part-3-minimum-usable-product-f11e56b417fd)
   1. [x] to-read [Making a Side Project, Part 4: Sanity Check](https://medium.com/makesideproject/making-a-side-project-part-4-sanity-check-34cdac6e70ad)
+  1. [x] to-read [Making a Side Project, Part 5: Picking a Name](https://medium.com/makesideproject/making-a-side-project-part-5-picking-a-name-df5f2ce36db0)
 
   1. [ ] to-read [Side Projects Matter](http://philippe.bourgau.net/side-projects-matter/)
   1. [x] to-read [Stop Asking, Start Doing](https://dev.to/_patrickgod/stop-asking-start-doing)
