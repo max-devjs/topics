@@ -13,6 +13,8 @@
   1. [ ] to-read []()
   1. [ ] to-watch []()
 
+  1. [ ] to-check [cymbolism.com](http://cymbolism.com/)
+
 ### Readings
 
   1. [ ] to-read [THE SURPRISINGLY RECENT TIME PERIOD WHEN BOYS WORE PINK, GIRLS WORE BLUE, AND BOTH WORE DRESSES](http://www.todayifoundout.com/index.php/2014/10/pink-used-common-color-boys-blue-girls/)
