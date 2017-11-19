@@ -67,6 +67,8 @@
   1. [ ] to-read [10 incredible Quotes to guide your life.](https://medium.com/hi-my-name-is-jon/10-incredible-quotes-to-guide-your-life-617b5bb72d76)
   1. [ ] to-read [Doing Less in Your App to Give More to Your Users](https://medium.com/chingu/doing-less-in-your-app-to-give-more-to-your-users-e8b46416fa7e)
 
+  1. [x] to-read [How to Be Smarter Than People Smarter Than You](https://medium.com/personal-growth/how-to-be-smarter-than-people-smarter-than-you-ed6ccce83c64)
+
   1. [x] to-read [Am I Good Enough?](https://www.bradhussey.ca/good-enough/)
   1. [x] to-read [Porque não vejo forma desse país mudar?](https://medium.com/@jessica.si.info/porque-n%C3%A3o-vejo-forma-desse-pa%C3%ADs-mudar-4f1639d0ef4f)
   1. [x] to-read [What’s holding you back?](https://medium.com/@schlimmson/whats-holding-you-back-30eec582876e)
