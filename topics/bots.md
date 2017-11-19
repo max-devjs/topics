@@ -24,6 +24,8 @@
   1. [ ] to-read []()
   1. [ ] to-watch []()
 
+  1. [ ] to-check [botlist.co](https://botlist.co/)
+
   1. [ ] to-check [github.com/google/bottery](https://github.com/google/bottery) A conversational agent prototyping platform by katecompton@
 
   1. [ ] to-read [Bot Tutorials](https://tutorials.botsfloor.com/) Place to learn chatbot development & design
