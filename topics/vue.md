@@ -295,7 +295,7 @@
 
   1. [ ] to-read []()
   1. [ ] to-read []()
-  1. [ ] to-read []()
+  1. [ ] to-read [Dapp Scratch: a CLI for Building Dapps (and tutorial for building your first one)](https://codeburst.io/dapp-scratch-a-cli-for-building-dapps-and-tutorial-for-building-your-first-one-5cabdff3771e)
   1. [ ] to-read [Display GitHub profiles and repositories with the Vue GitHub component](https://vuejsfeed.com/blog/display-github-profiles-and-repositories-with-the-vue-github-component)
   1. [ ] to-read [Build a shopping cart with Vue 2 and Vuex](https://medium.com/employbl/build-a-shopping-cart-with-vue-2-and-vuex-5d58b93c513f)
   1. [ ] to-read [Building a graphql app form zero to hero using node JS and vue.js part 1](https://medium.com/@larrysigo/building-a-graphql-app-form-zero-to-hero-using-node-js-and-vue-js-part-1-99be42690b08)
