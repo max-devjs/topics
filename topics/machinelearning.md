@@ -91,6 +91,8 @@
   1. [ ] to-read []()
   1. [ ] to-read [Background removal with deep learning](https://medium.com/towards-data-science/background-removal-with-deep-learning-c4f2104b3157)
 
+  1. [ ] to-read [The MVC for Machine Learning: Data-Model-Learner (DML) － Part 1](https://hackernoon.com/the-mvc-for-machine-learning-data-model-learner-dml-8127d793f930)
+
 #### Self-driving Cars
 
   1. [ ] to-read [Learn from these 5 Udacity Students!](https://medium.com/self-driving-cars/learn-from-these-5-udacity-students-988688c7778d)
