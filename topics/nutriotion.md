@@ -5,6 +5,7 @@
   - [Aloe Vera](#aloe-vera)
   - [Courses](#courses)
   - [Danger](#danger)
+  - [Fasting](#fasting)
   - [HGH](#hgh)
   - [Hormones](#hormones)
     - [Leptin](#leptin)
@@ -44,6 +45,10 @@
   1. [ ] to-watch | youtube []()
   1. [ ] to-watch | youtube [Top 10 Foods That Can Kill You](https://www.youtube.com/watch?v=nuHOK9UegCw)
   1. [x] to-watch | youtube [10 FOODS YOU SHOULD NEVER EAT](https://www.youtube.com/watch?v=A_WqXYbghRw)
+
+### Fasting
+
+  1. [x] to-read [Here’s Why Calorie Restriction Makes Us Live Longer](http://bigthink.com/philip-perry/heres-why-calorie-restriction-makes-us-live-longer)
 
 ### HGH
 
