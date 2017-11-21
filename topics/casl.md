@@ -17,6 +17,8 @@
 
 ### Readings
 
+  1. [x] to-read [What is CASL or how can you build a castle around your application? 🏰](https://medium.com/dailyjs/what-is-casl-or-how-can-you-build-a-castle-around-your-application-4d2daa0b1ab4)
+
   1. [ ] to-read []()
   1. [ ] to-read []()
   1. [ ] to-read []()
