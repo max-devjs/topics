@@ -12,6 +12,7 @@
   - [How](#how)
   - [Inflammation](#inflammation)
   - [Intermittent Fasting](#intermittent-fasting)
+  - [Ketogenic](#ketogenic)
   - [Meat](#meat)
   - [Receipts](#receipts)
   - [Readings](#readings)
@@ -77,6 +78,10 @@
 
   1. [ ] to-watch [~ Michael Mosley’s ‘Eat, Fast and Live Longer’ Complete Documentary {58:50}](https://vimeo.com/103656060)
   1. [x] to-watch | youtube [There IS no secret...it's Intermittent Fasting.](https://www.youtube.com/watch?v=ue-qz-9ndfM)
+
+### Ketogenic
+
+  1. [x] to-read [Ketogenic Diets Have "Profound Effect on Brain Function," Studies Find](http://bigthink.com/21st-century-spirituality/ketogenic-diets-promote-longevity-and-memory)
 
 ### Meat
 
