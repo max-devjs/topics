@@ -21,6 +21,11 @@
   1. [ ] to-read []()
   1. [ ] to-watch []()
 
+  1. [ ] to-check [apps.goldensoncenter.uconn.edu/HLEC](https://apps.goldensoncenter.uconn.edu/HLEC/)
+
+
+
+
   1. [ ] to-read [How I Fixed My Carpal Tunnel Pain](https://dev.to/lpasqualis/how-i-fixed-my-carpal-tunnel-pain)
 
   1. [ ] to-watch | youtube [How to make diseases disappear | Rangan Chatterjee | TEDxLiverpool](https://www.youtube.com/watch?v=gaY4m00wXpw)
