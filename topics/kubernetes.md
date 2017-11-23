@@ -18,7 +18,7 @@
 
   1. [ ] to-read []()
   1. [ ] to-read []()
-  1. [ ] to-read []()
+  1. [ ] to-read [A development workflow for Kubernetes services](https://dev.to/datawireio/a-development-workflow-for-kubernetes-services-7fo)
   1. [ ] to-read [Your Container Orchestration Needs: Kubernetes vs. Mesos vs. Docker Swarm](https://blog.kubernauts.io/your-container-orchestration-needs-kubernetes-vs-mesos-vs-docker-swarm-1efa9acb69be)
 
 ### Tutorials
