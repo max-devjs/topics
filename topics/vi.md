@@ -75,6 +75,7 @@
   1. [ ] to-watch | youtube []()
   1. [ ] to-watch | youtube []()
 
+  1. [x] to-watch [Turn Vim & Tmux into an IDE like environment](https//www.youtube.com/watch?v=YD9aFIvlQYs)
   1. [x] to-watch [Learning Vim in a Week](https://www.youtube.com/watch?v=_NUO4JEtkDw)
   1. [ ] to-watch [Why Vim?](https://www.youtube.com/watch?v=F6-phM56H-Q)
   1. [ ] to-watch [How to Do 90% of What Plugins Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM)
@@ -84,7 +85,6 @@
   1. [ ] to-watch [Improving Vim Speed](https://www.youtube.com/watch?v=OnUiHLYZgaA)
   1. [ ] to-watch [REST APIs and the Return of the Console App](https://www.youtube.com/watch?v=3O60E9CpyJA)
   1. [ ] to-watch [How to customize your terminal & a cool alternative // Ubuntu 16.04 Tips](https://www.youtube.com/watch?v=li92nChHpCs)
-  1. [ ] to-watch [Turn Vim & Tmux into an IDE like environment](https://www.youtube.com/watch?v=YD9aFIvlQYs)
   1. [ ] to-watch [vim + tmux - OMG!Code](https://www.youtube.com/watch?v=5r6yzFEXajQ)
   1. [ ] to-watch [Basic Programming Workstation Setup](https://www.youtube.com/watch?v=M4TijoJg1Cs)
   1. [ ] to-watch [vim and tmux with c++/c](https://www.youtube.com/watch?v=MG91ihb0oZ0)
