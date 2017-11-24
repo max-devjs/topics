@@ -11,6 +11,9 @@
   1. [ ] to-read []()
   1. [ ] to-watch []()
 
+
+  1. [ ] to-read [reddit.com/r/Startup_Ideas](https://www.reddit.com/r/Startup_Ideas/)
+
   1. [ ] to-check [WAYRA](https://www.openfuture.org/pt/spaces/wayra) Descubra onde está nossa rede: incubadoras, espaços de aceleração, hubs de inovação e fundos de investimento.
   1. [ ] to-check [indiehackers.com](https://www.indiehackers.com/)
 
@@ -56,7 +59,7 @@
 
   1. [ ] to-read [How to Build a Great Tech Company That VCs Will Love](https://medium.com/the-mission/how-to-build-a-great-tech-company-that-vcs-will-love-d1da07de71ce)
   1. [ ] to-read [Porquê eu recuso projetos de startups!](https://medium.com/@emtudo/porque-eu-recurso-projetos-de-startups-23757c5575b2)
-  
+
   1. [ ] to-read [6 AI Startups We’re Keeping an Eye On](https://hackernoon.com/6-ai-startups-were-keeping-an-eye-on-d83e75808559)
   1. [ ] to-read [So yeah, I left San Francisco and Slack to move to Paris](https://hackernoon.com/so-yeah-i-left-san-francisco-and-slack-to-move-to-paris-a71a730f1a5d)
   1. [ ] to-read [How I Sold My First App for $1,200 in Two Days — Learnings & Tips](https://hackernoon.com/how-i-sold-my-first-app-for-1-200-in-two-days-learnings-tips-903f41b6b548)
