@@ -26,6 +26,8 @@
   1. [x] to-read [Making a Side Project, Part 7: Design](https://medium.com/makesideproject/making-a-side-project-part-7-design-650b247205c2)
   1. [x] to-read [Making a Side Project, Part 8: Site Planning](https://medium.com/makesideproject/making-a-side-project-part-8-site-planning-c81cac100577)
   1. [x] to-read [Making a Side Project, Part 9: Development Setup](https://medium.com/makesideproject/making-a-side-project-part-9-development-setup-9c8288d55c34)
+  1. [x] to-read [Making a Side Project, Part 10: Hosting Options](https://medium.com/makesideproject/making-a-side-project-part-10-hosting-options-756d3f434e31)
+
 
   1. [ ] to-read [Side Projects Matter](http://philippe.bourgau.net/side-projects-matter/)
   1. [x] to-read [Stop Asking, Start Doing](https://dev.to/_patrickgod/stop-asking-start-doing)
