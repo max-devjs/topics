@@ -29,10 +29,8 @@
 
 ### Plugins
 
-
-### Plugins
-
   1. [x] to-read [ack.vim](https://vimawesome.com/plugin/ack-vim)
+  1. [x] to-read [eunuch-vim](https://vimawesome.com/plugin/eunuch-vim)
 
 ### Readings
 
