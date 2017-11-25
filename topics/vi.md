@@ -67,6 +67,7 @@
   1. [ ] to-read [12 Vim Tips](https://dalibornasevic.com/posts/43-12-vim-tips)
 
   1. [ ] to-read [Setting up Vim for Clojure](https://kevinmccarthy.org/2013/10/12/setting-up-vim-for-clojure/)
+  1. [x] to-read [Vim After 15 Years](https://statico.github.io/vim3.html)
   1. [x] to-read [Setting up Vim for React development](https://drivy.engineering/setting-up-vim-for-react/)
   1. [x] to-read [The Vim Learning Curve is a Myth](https://robots.thoughtbot.com/the-vim-learning-curve-is-a-myth)
 
