@@ -27,6 +27,13 @@
   1. [ ] to-watch | udemy [Vim for Ruby Developers](https://www.udemy.com/vim-training-course-ruby-developers/learn/v4/overview)
   1. [ ] to-watch | udemy [Learn To Code Like a Pro With VI Editor](https://www.udemy.com/learn-to-code-like-a-pro-with-vi-editor/learn/v4/overview)
 
+### Docs
+
+  1. [ ] to-read []()
+  1. [ ] to-read []()
+  1. [ ] to-read []()
+  1. [x] to-read [Learning the vi Editor/Vim/Modes](https://en.wikibooks.org/wiki/Learning_the_vi_Editor/Vim/Modes)
+
 ### Plugins
 
   1. [x] to-read [ack.vim](https://vimawesome.com/plugin/ack-vim)
