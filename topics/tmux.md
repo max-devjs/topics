@@ -3,6 +3,7 @@
 # Table of Contents
 <!-- MarkdownTOC depth=4 -->
   - [Configs](#configs)
+    - [Themes](#themes)
   - [Courses](#courses)
   - [](#)
   - [Tutorials](#tutorials)
@@ -12,10 +13,17 @@
   1. [ ] to-read []()
   1. [ ] to-watch []()
 
+### Books
+
 ### Configs
 
   1. [x] to-check [github.com/gpakosz/.tmux](https://github.com/gpakosz/.tmux)
   1. [x] to-check [The best and greatest tmux.conf ever](https://gist.github.com/spicycode/1229612)
+
+#### Themes
+
+  1. [ ] to-check [github.com/odedlaz/tmux-onedark-theme](https://github.com/odedlaz/tmux-onedark-theme)
+
 ### Courses
 
   1. [ ] to-watch | egghead [Wrangle your terminal with tmux](https://egghead.io/courses/wrangle-your-terminal-with-tmux)
