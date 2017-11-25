@@ -4,6 +4,7 @@
 <!-- MarkdownTOC depth=4 -->
   - [Configs](#configs)
   - [Courses](#courses)
+  - [Plugins](#plugins)
   - [Readings](#readings)
   - [Tutorials](#tutorials)
 <!-- /MarkdownTOC -->
@@ -25,6 +26,13 @@
   1. [ ] to-watch | udemy []()
   1. [ ] to-watch | udemy [Vim for Ruby Developers](https://www.udemy.com/vim-training-course-ruby-developers/learn/v4/overview)
   1. [ ] to-watch | udemy [Learn To Code Like a Pro With VI Editor](https://www.udemy.com/learn-to-code-like-a-pro-with-vi-editor/learn/v4/overview)
+
+### Plugins
+
+
+### Plugins
+
+  1. [x] to-read [ack.vim](https://vimawesome.com/plugin/ack-vim)
 
 ### Readings
 
