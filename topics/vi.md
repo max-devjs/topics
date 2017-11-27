@@ -59,6 +59,7 @@
   1. [ ] to-read [What is modern Vim?](https://medium.com/usevim/what-is-modern-vim-2591f6b1ec04)
   1. [ ] to-read [I'm writing a new book: Modern Vim](http://vimcasts.org/blog/2017/05/working-title-modern-vim/)
   1. [ ] to-read [NeoVim and Atom](https://medium.com/usevim/neovim-and-atom-d8c3d54484bd)
+  1. [x] to-read [Your problem with Vim is that you don't grok vi](http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)
   1. [x] to-read [Coming Home to Vim](http://stevelosh.com/blog/2010/09/coming-home-to-vim/)
   1. [x] to-read [My 2.5 Year Journey with Vim and Why I Switched Back to Sublime Text](https://medium.com/in-the-weeds/my-2-5-year-journey-with-vim-and-why-i-switched-back-to-sublime-text-4afcc303741e)
   1. [x] to-read [10 Vim Tips to Ease the Learning Curve](https://medium.com/@hql287/10-vim-tips-to-ease-the-learning-curve-c8234cbdafa5)
