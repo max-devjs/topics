@@ -91,6 +91,9 @@
   1. [ ] to-watch | youtube []()
   1. [ ] to-watch | youtube []()
 
+  1. [x] to-watch [BASIC Movement (Screencast 1)](https://vimeo.com/6170479)
+
+
   1. [x] to-watch [Turn Vim & Tmux into an IDE like environment](https//www.youtube.com/watch?v=YD9aFIvlQYs)
   1. [x] to-watch [Learning Vim in a Week](https://www.youtube.com/watch?v=_NUO4JEtkDw)
   1. [x] to-watch [How to Do 90% of What Plugins Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM)
