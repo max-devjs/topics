@@ -93,7 +93,7 @@
 
   1. [x] to-watch [BASIC Movement (Screencast 1)](https://vimeo.com/6170479)
   1. [x] to-watch [BASIC Movement (Screencast 2)](https://vimeo.com/6185584)
-
+  1. [x] to-watch [BASIC Movement (Screencast 3)](https://vimeo.com/6216655)
 
   1. [x] to-watch [Turn Vim & Tmux into an IDE like environment](https//www.youtube.com/watch?v=YD9aFIvlQYs)
   1. [x] to-watch [Learning Vim in a Week](https://www.youtube.com/watch?v=_NUO4JEtkDw)
