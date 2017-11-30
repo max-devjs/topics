@@ -22,6 +22,7 @@
 
 ### Configs
 
+  1. [ ] to-check [github.com/mhinz/neovim-remote](https://github.com/mhinz/neovim-remote)
   1. [x] to-read [A Good Vimrc](https://dougblack.io/words/a-good-vimrc.html)
 
 ### Courses
