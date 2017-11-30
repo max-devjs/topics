@@ -18,6 +18,8 @@
 
   1. [ ] to-check [know-it-all.io](https://know-it-all.io/)
 
+
+  1. [ ] to-check [tldr.sh](http://tldr.sh/) Simplified and community-driven man pages
   1. [ ] to-read [Learn to Code, Part 1 - Random Walker](https://dev.to/rpalo/learn-to-code-part-1---random-walker)
 
   1. [ ] to-read [What computer science concepts should devs without a CS background prioritize learning?](https://dev.to/ben/what-computer-science-concepts-should-devs-without-a-cs-background-prioritize-learning)
