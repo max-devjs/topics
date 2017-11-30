@@ -2,6 +2,7 @@
 
 # Table of Contents
 <!-- MarkdownTOC depth=4 -->
+  - [Books](#books)
   - [Configs](#configs)
   - [Courses](#courses)
   - [Plugins](#plugins)
@@ -14,6 +15,10 @@
   1. [ ] to-watch []()
 
   1. [ ] to-check [vimulator](http://thoughtbot.github.io/vimulator/)
+
+### Books
+
+  1. [ ] to-read [Modern Vim](https://pragprog.com/book/modvim/modern-vim)
 
 ### Configs
 
