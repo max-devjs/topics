@@ -24,6 +24,7 @@
 
   1. [ ] to-read []()
   1. [ ] to-read []()
+  1. [ ] to-read [Phuck Phishing & Be Secure While Using MyEtherWallet](https://hackernoon.com/phuck-phishing-be-secure-while-using-myetherwallet-93691775c0d6)
   1. [ ] to-read [The Market will always have room for Cryptocurrencies that are more Centralized than Bitcoin
 ](https://hackernoon.com/the-market-will-always-have-room-for-cryptocurrencies-that-are-more-centralized-than-bitcoin-8a9cd4e6accb)
   1. [ ] to-read [How will crypto apps make money?](https://hackernoon.com/how-will-crypto-apps-make-money-a1c5c5d01285)
