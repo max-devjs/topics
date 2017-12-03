@@ -16,6 +16,7 @@
 
   1. [ ] to-check [vimulator](http://thoughtbot.github.io/vimulator/)
 
+
 ### Books
 
   1. [ ] to-read [Modern Vim](https://pragprog.com/book/modvim/modern-vim)
@@ -44,7 +45,8 @@
 
   1. [x] to-read [ack.vim](https://vimawesome.com/plugin/ack-vim)
   1. [x] to-read [eunuch-vim](https://vimawesome.com/plugin/eunuch-vim)
-  1. [x] to-check [github.com/junegunn/fzf.vim](https://github.com/junegunn/fzf.vim)
+  1. [x] to-check
+     [github.com/junegunn/fzf.vim](https://github.com/junegunn/fzf.vim)
   1. [x] to-check [github.com/junegunn/fzf](https://github.com/junegunn/fzf)
 
 ### Readings
