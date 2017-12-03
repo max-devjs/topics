@@ -24,7 +24,8 @@
 
   1. [ ] to-read []()
   1. [ ] to-read []()
-  1. [ ] to-read []()
+  1. [ ] to-read [The Market will always have room for Cryptocurrencies that are more Centralized than Bitcoin
+](https://hackernoon.com/the-market-will-always-have-room-for-cryptocurrencies-that-are-more-centralized-than-bitcoin-8a9cd4e6accb)
   1. [ ] to-read [How will crypto apps make money?](https://hackernoon.com/how-will-crypto-apps-make-money-a1c5c5d01285)
   
   1. [ ] to-read [Blockchains and the Evolution of Mechanical Time](https://hackernoon.com/blockchains-and-the-evolution-of-mechanical-time-60295326d9c2)
