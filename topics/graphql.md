@@ -51,7 +51,7 @@
   1. [ ] to-read [Learning GraphQL with Firebase: Part 3](https://codeburst.io/learning-graphql-with-firebase-part-3-34f8f5ee9a28)
   1. [ ] to-read []()
   1. [ ] to-read []()
-  1. [ ] to-read []()
+  1. [ ] to-read [Custom errors and error reporting in GraphQL](https://codeburst.io/custom-errors-and-error-reporting-in-graphql-bbd398272aeb)
   1. [ ] to-read [New Tutorials on How to GraphQL: VueJS, Ember & Python](https://blog.graph.cool/new-tutorials-on-how-to-graphql-vuejs-ember-python-89d49fc1d607)
   1. [ ] to-read [Getting up and running with GraphQL](https://blog.pusher.com/getting-up-and-running-with-graphql)
   1. [ ] to-read [How to GraphQL](https://www.producthunt.com/posts/how-to-graphql)
