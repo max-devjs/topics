@@ -24,7 +24,7 @@
 
   1. [ ] to-read []()
   1. [ ] to-read []()
-  1. [ ] to-read []()
+  1. [ ] to-read [Understanding Vuex and how it works](https://medium.com/@laurandidi21/understanding-vuex-and-how-it-works-f6372b1ee286)
 
   1. [ ] to-read [WTF is Vuex? A Beginner’s Guide To Vue’s Application Data Store](https://medium.com/js-dojo/vuex-for-the-clueless-the-missing-primer-on-vues-application-data-store-33fa51ffc3af)
 
