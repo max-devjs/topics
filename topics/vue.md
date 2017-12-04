@@ -206,7 +206,7 @@
   1. [ ] to-read [Vue.Js Vs. Jquery: Use Cases and Comparison with Examples](https://scotch.io/bar-talk/vuejs-vs-jquery-use-cases-and-comparison-with-examples)
   1. [ ] to-read [Vue.js —Simple event bus for cross component communication](https://medium.com/@patrickleenyc/vue-js-simple-event-bus-for-cross-component-communication-85dd8f0fc750)
   1. [ ] to-read [React + Webpack: confusion, frustration and how Vue.js can help](https://codeburst.io/react-webpack-confusion-frustration-and-how-vue-js-can-help-97ccab801c25) ue.js is a dead simple way to start using reactive components
-  
+
   1. [ ] to-read [The Story of our Progressive Migration from Backbone to Vue.js](https://snipcart.com/blog/progressive-migration-backbone-vuejs-refactoring)
 
   1. [ ] to-read [Why Choose Vue.js](http://hire.jonasgalvez.com.br/2017/Jun/23/Why-Choose-Vue)
@@ -490,6 +490,7 @@
   1. [ ] to-read [A progressive Web application with Vue JS, Webpack & Material Design [Part 1]](https://blog.sicara.com/a-progressive-web-application-with-vue-js-webpack-material-design-part-1-c243e2e6e402)
   1. [ ] to-read [A Progressive Web Application with Vue JS, Webpack & Material Design [Part 2]](https://medium.com/bam-tech/a-progressive-web-application-with-vue-js-webpack-material-design-part-2-a5f19e70e08b)
   1. [ ] to-read [A Progressive Web Application with Vue JS, Webpack & Material Design [Part 3]](https://blog.sicara.com/a-progressive-web-application-with-vue-js-webpack-material-design-part-3-service-workers-offline-ed3184264fd1)
+  1. [] to-read [A Progressive Web Application with Vue JS, Webpack & Material Design [Part 4]](https://medium.com/theodo/a-progressive-web-application-with-vue-js-webpack-material-design-part-4-96c8c216810b)
 
 #### x-various
 
