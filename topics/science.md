@@ -27,7 +27,6 @@
   1. [ ] to-read []()
   1. [ ] to-read [How a Napping Subway Commuter’s Brain Knows When It’s Their Stop](http://nymag.com/scienceofus/2017/06/how-napping-subway-commuters-know-when-theyre-at-their-stop.html)
   1. [x] to-read [New Study Confirms Three Methods for Controlling Your Dreams](http://bigthink.com/21st-century-spirituality/new-study-confirms-three-methods-for-controlling-your-dreams)
-
   1. [x] to-read [Virtual reality shows promising results for pain management](http://www.acrdailynewslive.org/virtual-reality-shows-promising-results-for-pain-management)
   1. [x] to-read [How Two Physicists Proved We’re Not Living in The Matrix](http://bigthink.com/philip-perry/how-two-physicists-proved-were-not-living-inside-the-matrix)
   1. [x] to-read [Why Do People Hate the Sound of Their Own Voices?](https://www.livescience.com/55527-why-people-hate-the-sound-of-their-voice.html)
@@ -70,7 +69,7 @@
 ### Videos
 
   1. [ ] to-watch | youtube []()
-
+  1. [ ] to-watch [The science of cells that never get old](https://www.ted.com/talks/elizabeth_blackburn_the_science_of_cells_that_never_get_old#t-895431)
   1. [x] to-watch | youtube [Brilliantly Simple Explanation of Quantum Entanglement](https://www.scienceandnonduality.com/videos/brilliantly-simple-explanation-of-quantum-entanglement)
 
   1. [x] to-watch | youtube [The Most Efficient Way to Destroy the Universe – False Vacuum](https://www.youtube.com/watch?v=ijFm6DxNVyI)
