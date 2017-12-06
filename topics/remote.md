@@ -47,6 +47,7 @@
   1. [ ] to-read [11 Ways to Maintain Work-Life Balance When Working Remotely](https://remote.co/maintain-work-life-balance-working-remotely/)
   1. [ ] to-read [A Guide to Co-Living for Digital Nomads](https://remote.co/guide-to-co-living-for-digital-nomads/)
 
+  1. [x] to-read [Devs Brasileiros, Gringos e trabalhar no exterior](https://willianjusten.com.br/devs-brasileiros-gringos-trabalhar-exterior/) Será que a diferença é tão grande assim? Vamos conversar um pouco sobre isso
   1. [x] to-read [6 Months of Working Remotely Taught Me a Thing or Ten](https://dev.to/peteranglea/6-months-of-working-remotely-taught-me-a-thing-orten)
   1. [x] to-read [Minha trajetoria até me tornar Desenvolvedor](https://willianjusten.com.br/minha-trajetoria-ate-ser-desenvolvedor/)
   1. [x] to-read [Biggest Challenges for Digital Nomads and How to Overcome Them](https://remote.co/challenges-for-digital-nomads-overcome-them/)
