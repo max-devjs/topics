@@ -35,6 +35,10 @@
 
 ### Debug
 
+  1. [ ] to-read []()
+  1. [ ] to-read []()
+  1. [ ] to-read []()
+  1. [ ] to-read [Debugging RxJS, Part 1: Tooling](https://blog.angularindepth.com/debugging-rxjs-4f0340286dd3)
 
 ### Tutorials
 
