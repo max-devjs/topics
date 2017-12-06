@@ -3,7 +3,7 @@
 # Table of Contents
 <!-- MarkdownTOC depth=4 -->
   - [](#)
-  - [](#)
+  - [English](#english)
   - [Readings](#readings)
 <!-- /MarkdownTOC -->
 
@@ -25,6 +25,11 @@
 ### 
 
   1. [ ] to-read [Remote Workers Q&A](https://remote.co/remote-workers/) Leading remote workers and digital nomads answer your top questions
+
+### English
+
+  1. [ ] to-read []()
+  1. [x] to-read [Fui aprender Inglês](http://www.igorapa.com/fui-aprender-ingles.html)
 
 ### Readings 
 
