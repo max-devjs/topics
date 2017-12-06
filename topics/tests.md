@@ -27,6 +27,12 @@
 
   1. [ ] to-read []()
   1. [ ] to-read []()
+  1. [ ] to-read []()
+  1. [ ] to-read []()
+  1. [ ] to-read []()
+  1. [ ] to-read []()
+  1. [ ] to-read []()
+  1. [ ] to-read [Why End-to-End Testing is Important for Your Team](https://medium.freecodecamp.org/why-end-to-end-testing-is-important-for-your-team-cb7eb0ec1504)
   1. [ ] to-read [Know Your Tests: A Summary of Common Testing Patterns](https://dev.to/andelahmasila/know-your-tests-a-summary-of-common-testing-patterns)
   1. [ ] to-read [What exactly is a "unit" in unit testing?](https://dev.to/ruidfigueiredo/what-exactly-is-a-unit-in-unit-testing)
   1. [ ] to-read [The Outrageous Cost of Skipping TDD & Code Reviews](https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412)
