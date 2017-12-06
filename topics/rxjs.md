@@ -4,8 +4,10 @@
 <!-- MarkdownTOC depth=4 -->
   - [Codes](#codes)
   - [Courses](#courses)
-  - [Observables](#observables)
+  - [Debug](#debug)
   - [Tutorials](#tutorials)
+    - [Observables](#observables)
+  - [Videos](#videos)
 <!-- /MarkdownTOC -->
 
   1. [ ] to-check []()
@@ -31,9 +33,8 @@
   1. [ ] to-watch | youtube [Understanding RxJS](https://www.youtube.com/playlist?list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi)
   1. [ ] to-watch | youtube [RxJS](https://www.youtube.com/playlist?list=PLtKjv92L0ihCTk5bs4cqOSEU5FI7b486Q)
 
-### Observables
+### Debug
 
-  1. [ ] to-read [RxJS: Observables, observers and operators introduction](https://toddmotto.com/rxjs-observables-observers-operators)
 
 ### Tutorials
 
@@ -63,7 +64,13 @@
   1. [x] to-read [Common Rxjs Pitfalls that you might find while building Angular Applications](http://blog.angular-university.io/angular-2-rxjs-common-pitfalls/)
   1. [ ] to-read [Querying a Normalized State with RxJS in Angular](https://netbasal.com/querying-a-normalized-state-with-rxjs-in-angular-71ecd7ca25b4)
 
+#### Observables
+
+  1. [ ] to-read [RxJS: Observables, observers and operators introduction](https://toddmotto.com/rxjs-observables-observers-operators)
+
+
 ### Videos
 
   1. [ ] to-watch | youtube [The Power of RxJS (in Angular) ft. Tracy Lee](https://www.youtube.com/watch?v=IqyPpx8rhH4)
   1. [ ] to-watch | youtube [Top 7 RxJS Concepts for Angular Developers](https://www.youtube.com/watch?v=65Us8NwmYf4)
+
