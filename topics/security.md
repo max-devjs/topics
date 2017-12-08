@@ -56,6 +56,7 @@ in Switzerland
   1. [ ] to-read | ycombinator [The NSA: An Inside View](https://news.ycombinator.com/item?id=6910687)
   1. [x] to-read [How I Hacked 40 Websites in 7 minutes](https://hackernoon.com/how-i-hacked-40-websites-in-7-minutes-5b4c28bc8824)
   1. [x] to-read ['Dirty Cow' Linux vulnerability found after nine years](https://www.theguardian.com/technology/2016/oct/21/dirty-cow-linux-vulnerability-found-after-nine-years)
+  1. [x] to-read [Security bug lifetime](https://outflux.net/blog/archives/2016/10/18/security-bug-lifetime/)
 
 ### Tutorials
 
