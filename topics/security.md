@@ -16,7 +16,7 @@
   1. [ ] to-watch []()
 
   1. [ ] to-check [github.com/EFForg/](https://github.com/EFForg/)
-  1. [ ] to-check [ProtonMail](https://protonmail.com/) Secure Email Based 
+  1. [ ] to-check [ProtonMail](https://protonmail.com/) Secure Email Based
 in Switzerland
   1. [ ] to-check [Privacy Badger](https://www.eff.org/privacybadger)
 
@@ -54,6 +54,7 @@ in Switzerland
 
   1. [x] to-read [The NSA: An Inside View](https://medium.com/@lorendsr/the-nsa-an-inside-view-e411a174b483)
   1. [ ] to-read | ycombinator [The NSA: An Inside View](https://news.ycombinator.com/item?id=6910687)
+  1. [x] to-read [How I Hacked 40 Websites in 7 minutes](https://hackernoon.com/how-i-hacked-40-websites-in-7-minutes-5b4c28bc8824)
 
 ### Tutorials
 
