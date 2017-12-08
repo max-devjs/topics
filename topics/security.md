@@ -55,6 +55,7 @@ in Switzerland
   1. [x] to-read [The NSA: An Inside View](https://medium.com/@lorendsr/the-nsa-an-inside-view-e411a174b483)
   1. [ ] to-read | ycombinator [The NSA: An Inside View](https://news.ycombinator.com/item?id=6910687)
   1. [x] to-read [How I Hacked 40 Websites in 7 minutes](https://hackernoon.com/how-i-hacked-40-websites-in-7-minutes-5b4c28bc8824)
+  1. [x] to-read ['Dirty Cow' Linux vulnerability found after nine years](https://www.theguardian.com/technology/2016/oct/21/dirty-cow-linux-vulnerability-found-after-nine-years)
 
 ### Tutorials
 
