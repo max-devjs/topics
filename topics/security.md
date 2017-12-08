@@ -34,7 +34,7 @@ in Switzerland
   1. [ ] to-read []()
   1. [ ] to-read []()
   1. [ ] to-read []()
-
+  1. [ ] to-read [Unrestricted File Upload](https://www.owasp.org/index.php/Unrestricted_File_Upload)
   1. [ ] to-read [The Empire Strikes Back with a Coordinated War on Crypto](https://hackernoon.com/the-empire-strikes-back-with-a-coordinated-war-on-crypto-bdd84fd2f854)
   1. [ ] to-read [How to Not Get Your Identity Stolen](https://auth0.com/blog/how-to-not-get-your-identity-stolen/) Practical advice for mitigating your risk of identity theft.
   1. [ ] to-read [How to Set up an SSH Server on a Home Computer](https://dev.to/zduey/how-to-set-up-an-ssh-server-on-a-home-computer)
