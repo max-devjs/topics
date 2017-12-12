@@ -198,7 +198,7 @@
   1. [ ] to-read []()
   1. [ ] to-read []()
   1. [ ] to-read []()
-  1. [ ] to-read []()
+  1. [x] to-read [What’s The Deal With Vue’s Virtual DOM?](https://medium.com/js-dojo/whats-the-deal-with-vue-s-virtual-dom-3ed4fc0dbb20)
 
   1. [x] to-read [VueJs: The basics in 4 mins](https://codeburst.io/vuejs-the-basics-in-4-mins-6208df76003d)
   1. [ ] to-read [Tips from a Lowly VueJS Developer](https://medium.com/@denny.headrick/tips-from-a-lowly-vuejs-developer-381b6956aece)
