@@ -195,6 +195,10 @@
 
 ### Readings
 
+  1. [ ] to-read [The Vue architecture that worked for me. (in small and large apps)](https://medium.com/@ederng/the-vue-architecture-that-worked-for-me-in-small-and-large-apps-9b253cf92951)
+  1. [ ] to-read []()
+  1. [ ] to-read []()
+  1. [ ] to-read []()
   1. [ ] to-read []()
   1. [ ] to-read []()
   1. [ ] to-read []()
