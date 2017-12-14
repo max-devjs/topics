@@ -36,7 +36,7 @@
   1. [ ] to-read []()
   1. [ ] to-read []()
   1. [ ] to-read []()
-  1. [ ] to-read []()
+  1. [x] to-read [How Can a Remote Company Be a “Best Place to Work”?](https://medium.com/@peerfit/how-can-a-remote-company-be-a-best-place-to-work-20244a1dc688)
   1. [ ] to-read [Remote Work Doesn’t Scale … or Does It?](https://hackernoon.com/remote-work-doesnt-scale-or-does-it-4a72ce2bb1f3)
   1. [ ] to-read [Is it legal to be a Digital Nomad?](http://hobowithalaptop.com/is-it-legal-to-be-a-digital-nomad-333#axzz3QhJQkRpO)
 
