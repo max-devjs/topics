@@ -561,7 +561,7 @@
   1. [ ] to-watch | youtube [Vue.JS with Visual Studio Code](https://www.youtube.com/playlist?list=PLKpsfcgjUrwQ3bqoul3gRicoFGvaGiZIz)
 
   1. [ ] to-watch |  []()
-  1. [ ] to-watch | youtube []()
+  1. [x] to-watch | youtube [Learn Vuex In 10 Minutes (Vue.js State Management)](https://www.youtube.com/watch?v=LW9yIR4GoVU)
   1. [ ] to-watch | youtube []()
   1. [ ] to-watch | youtube []()
   1. [ ] to-watch | youtube []()
