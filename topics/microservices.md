@@ -19,6 +19,12 @@
 
   1. [ ] to-read []()
   1. [ ] to-read []()
+  1. [ ] to-read []()
+  1. [ ] to-read []()
+  1. [ ] to-read []()
+  1. [ ] to-read []()
+  1. [ ] to-read []()
+  1. [ ] to-read [The Microservices Misconception](https://hackernoon.com/the-microservices-misconception-684bc0584bb6)
   1. [ ] to-read [Designing a Microservices Architecture for Failure](https://hackernoon.com/designing-a-microservices-architecture-for-failure-a57f34ded646)
   1. [ ] to-read [An Introduction to Microservices](https://medium.freecodecamp.org/an-introduction-to-microservices-2705e7758f9)
 
