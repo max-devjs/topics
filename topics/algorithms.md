@@ -21,6 +21,11 @@
 ### Courses
 
   1. [ ] to-watch []()
+  1. [ ] to-watch []()
+  1. [ ] to-watch []()
+  1. [ ] to-watch []()
+  1. [ ] to-watch []()
+  1. [ ] to-watch | udemy [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure/learn/v4/overview)
   1. [ ] to-watch [Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity)
   1. [ ] to-watch [rails.devcamp.com/trails/algorithm](https://rails.devcamp.com/trails/algorithm)
   1. [ ] to-watch [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
